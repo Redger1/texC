@@ -1,0 +1,150 @@
+.top_line_dark {
+	width: 75%;
+	background: #00275A;
+	float: right;
+	height: 6px;
+}
+.top_line_light {
+    background: #3B88B2;
+    width: 25%;
+    height: 6px;
+    float: left;
+}
+header {
+	padding: 40px 0px;
+	font-size: 0.9rem;
+}
+.top_phone strong {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+.top_phone a {
+	color: black;
+	text-decoration: underline;
+	font-size: 1.2rem;
+}
+.phone_first {
+	font-size: 1.05rem;
+}
+ul.nav li {
+	display: inline;
+	font-family: 'Times New Roman';
+	font-size: 1.2rem;
+}
+.navbar {
+	width: 120%;
+	height: 60%;
+	background: #0E2D62;
+	border-radius: 11px;
+	margin-right: -160px;
+	margin-left: 120px;
+	margin-top: 12px;
+	align-content: center;
+}
+.nav li a {
+	color: white;
+}
+.intro {
+	background-image: url(https://texfilterkazan.ru/wp-content/themes/texfilter/images/intro_bg.jpg);
+	background-size: cover;
+	padding: 150px 5%;
+	width: 120%;
+	border-radius: 15px;
+	margin-bottom: 40px;
+}
+.pdf {
+	text-align: center;
+	font-size: 1.2rem;
+	font-weight: 500;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: gray;
+	border-width: 1px;
+	margin-top: 30px;
+	padding: 8px 0 8px 0;
+}
+#pdf {
+	color: black;
+}
+.cyka {
+	color: white;
+	font-size: 1.7rem;
+	font-weight: bold;
+	text-align: center;
+}
+body {
+	text-align: left;
+}
+.container {
+	margin-left: 23%;
+	margin-bottom: 20px;
+}
+
+.sidebar {
+	padding: 30px 20px;
+	background: #F2F2F2;
+	background-size: auto;
+	border-radius: 10px;
+	font-size: 1.3rem;
+	font-family: 'Times New Roman';
+	font-weight: bold;
+	margin-bottom: 0 0 30px 0;
+}
+.main {
+	margin-right: -220px;
+	margin-left: 20px;
+}
+h1 {
+	margin-bottom: 1rem;
+}
+p {
+	text-align: left;
+	color: black;
+	font-weight: normal;
+	font-size: 1.2rem;
+	margin-bottom: 1rem;
+}
+img {
+	vertical-align: middle;
+}
+.catalog-item {
+	text-align: center;
+	display: block;
+	margin-bottom: 30px;
+}
+.img-fluid {
+	max-width: 100%;
+	border-radius: 20px;
+}
+.catalog-item__text {
+	text-align: center;
+	font-size: 1.3rem;
+	font-weight: 500;
+	margin-top: -27px;
+}
+.catalog {
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+.bottom_line_dark {
+	width: 75%;
+	background: #00275A;
+	float: left;
+	height: 6px;
+}
+.bottom_line_light {
+    background: #3B88B2;
+    width: 25%;
+    height: 6px;
+    float: right;
+}
+.row {
+	width: 100%;
+}
+footer {
+	height: 175px;
+}
+.footer {
+	margin-top: 80px;
+	margin-bottom: -10px;
+}
